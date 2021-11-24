@@ -1,0 +1,50 @@
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardLibrary\obj\Debug\CardLibrary.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\bin\Debug\CardLibrary.dll
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\bin\Debug\CardLibrary.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\obj\Debug\CardLibrary.csproj.CoreCompileInputs.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\obj\Debug\CardLibrary.dll
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\Game\oop4200-durak-master\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\CardGame\BackUp\CardLibrary\obj\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\obj\Debug\CardLibrary.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\obj\Debug\CardLibrary.Properties.Resources.resources
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\obj\Debug\CardLibrary.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\CardGame\BeckUp\CardLibrary\obj\Debug\CardLibrary.pdb

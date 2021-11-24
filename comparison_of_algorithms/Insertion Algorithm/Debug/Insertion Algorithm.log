@@ -1,0 +1,3 @@
+﻿  Insertion.cpp
+D:\Work\MyProject\Insertion Algorithm\Insertion.cpp(63,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Insertion Algorithm.vcxproj -> D:\Work\MyProject\Insertion Algorithm\Debug\Insertion Algorithm.exe

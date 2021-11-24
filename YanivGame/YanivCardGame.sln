@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardBox", "CardBox\CardBox.csproj", "{D66A5BAA-59F9-4518-9BFB-661651718E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLibrary", "CardLibrary\CardLibrary.csproj", "{99A8163F-1D14-42B3-BC6B-2C1FF9246960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YanivGame", "YanivCardGame\YanivGame.csproj", "{7DAE8ECF-3B3C-4E5A-A0CD-5E4ABFC6041F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66A5BAA-59F9-4518-9BFB-661651718E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66A5BAA-59F9-4518-9BFB-661651718E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66A5BAA-59F9-4518-9BFB-661651718E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66A5BAA-59F9-4518-9BFB-661651718E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A8163F-1D14-42B3-BC6B-2C1FF9246960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A8163F-1D14-42B3-BC6B-2C1FF9246960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A8163F-1D14-42B3-BC6B-2C1FF9246960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A8163F-1D14-42B3-BC6B-2C1FF9246960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAE8ECF-3B3C-4E5A-A0CD-5E4ABFC6041F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAE8ECF-3B3C-4E5A-A0CD-5E4ABFC6041F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAE8ECF-3B3C-4E5A-A0CD-5E4ABFC6041F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAE8ECF-3B3C-4E5A-A0CD-5E4ABFC6041F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9054A6EB-6C8B-4F05-8744-7956EB6EE2E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  Choice.cpp
+D:\Work\MyProject\Choice Algorithm\Choice.cpp(63,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Choice Algorithm.vcxproj -> D:\Work\MyProject\Choice Algorithm\Debug\Choice Algorithm.exe

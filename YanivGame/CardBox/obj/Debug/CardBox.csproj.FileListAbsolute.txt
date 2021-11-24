@@ -1,0 +1,63 @@
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\bin\Debug\CardBox.dll
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\bin\Debug\CardBox.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.dll
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\bin\Debug\CardBox.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\bin\Debug\CardBox.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\Durak\CardBox\obj\Debug\CardBox.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\bin\Debug\CardBox.dll
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\bin\Debug\CardBox.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\bin\Debug\CardLibrary.dll
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\bin\Debug\CardLibrary.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.CardBox.resources
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.csproj.CoreCompileInputs.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.dll
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\CardBox\obj\Debug\CardBox.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardBox\obj\Debug\CardBox.dll
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\CardBox\obj\Debug\CardBox.pdb
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\bin\Debug\CardBox.dll
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\bin\Debug\CardBox.pdb
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.dll
+C:\Users\winde\Desktop\CardGame\BackUp\CardBox\obj\Debug\CardBox.pdb
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\bin\Debug\CardBox.dll
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\bin\Debug\CardBox.pdb
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\bin\Debug\CardLibrary.dll
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\bin\Debug\CardLibrary.pdb
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.Properties.Resources.resources
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.csproj.CopyComplete
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.dll
+C:\Users\winde\Desktop\CardGame\BeckUp\CardBox\obj\Debug\CardBox.pdb

@@ -1,0 +1,7 @@
+﻿  Insertion.cpp
+D:\Work\MyProject\Insertion Algorithm\Insertion.cpp(63,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Insertion Algorithm.vcxproj -> D:\Work\MyProject\Insertion Algorithm\Release\Insertion Algorithm.exe

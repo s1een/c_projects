@@ -1,0 +1,79 @@
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\DurakGame.csprojAssemblyReference.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\FormUIDemo.frmAboutForm.resources
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\FormUIDemo.frmMainForm.resources
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\FormUIDemo.Properties.Resources.resources
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\DurakGame.csproj.GenerateResource.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\DurakGame.csproj.CoreCompileInputs.cache
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\FormUIDemo.exe
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\FormUIDemo.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\bin\Debug\FormUIDemo.exe.config
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\bin\Debug\FormUIDemo.exe
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\bin\Debug\FormUIDemo.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\bin\Debug\DemoCardsLibrary.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\bin\Debug\MyCardBox.pdb
+D:\Durham College\Year 2\Semester 2\OOP-4200\Assignments\Tutorial 9\FormUIDemo\obj\Debug\DurakGame.csproj.CopyComplete
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\bin\Debug\FormUIDemo.exe.config
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\bin\Debug\FormUIDemo.exe
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\bin\Debug\FormUIDemo.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\bin\Debug\DemoCardsLibrary.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\bin\Debug\MyCardBox.pdb
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\DurakGame.csprojAssemblyReference.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.frmMainForm.resources
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.Properties.Resources.resources
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\DurakGame.csproj.CoreCompileInputs.cache
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\DurakGame.csproj.CopyComplete
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.exe
+C:\Users\jzbak\Documents\GitHub\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.pdb
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\DurakGame.csprojAssemblyReference.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.frmAboutForm.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.frmMainForm.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.Properties.Resources.resources
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.exe
+C:\Users\epice\Documents\DC\Semester 4\OOP4200\oop4200-durak\DurakGame\obj\Debug\FormUIDemo.pdb
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.exe.config
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.exe
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.pdb
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\bin\Debug\DemoCardsLibrary.pdb
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\bin\Debug\MyCardBox.pdb
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.frmMainForm.resources
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Properties.Resources.resources
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csproj.CopyComplete
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.exe
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.pdb
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Info.resources
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.MainMenu.resources
+C:\Users\winde\Desktop\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Settings_Form.resources
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.exe.config
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.exe
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\bin\Debug\DemoCardsLibrary.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\bin\Debug\MyCardBox.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csprojAssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Info.resources
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.frmMainForm.resources
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.MainMenu.resources
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Settings_Form.resources
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csproj.CopyComplete
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.exe
+C:\Users\vladi\OneDrive\Рабочий стол\oop4200-durak-master\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.pdb
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.exe.config
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.exe
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\bin\Debug\FormUIDemo.pdb
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\bin\Debug\DemoCardsLibrary.pdb
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\bin\Debug\MyCardBox.pdb
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csprojAssemblyReference.cache
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Info.resources
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.frmMainForm.resources
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.MainMenu.resources
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Properties.Resources.resources
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.Settings_Form.resources
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\DurakGame.csproj.CopyComplete
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.exe
+C:\Users\winde\Desktop\oop4200-durak-master (2)\oop4200-durak-master\DurakGame\obj\Debug\FormUIDemo.pdb
